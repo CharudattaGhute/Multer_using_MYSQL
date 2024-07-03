@@ -19,7 +19,7 @@
 # Clone the repository to your local machine.
 1. Clone the repository:
     ```bash
-    git clone https://github.com/CharudattaGhute/Text-converter.git
+    https://github.com/CharudattaGhute/Multer_using_MYSQL.git
     ```
 
 ## Install the necessary dependencies using npm install.
