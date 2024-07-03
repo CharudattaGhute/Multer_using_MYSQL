@@ -18,9 +18,13 @@
 
 # Clone the repository to your local machine.
 
-Install the necessary dependencies using npm install.
-
-Set up your MySQL database:
+## Install the necessary dependencies using npm install.
+- npm install express
+- npm install body-parser
+- npm install express-session
+- npm innstall nodemon
+  
+# Set up your MySQL database:
 
 Create a database named multer.
 Create a table named file with columns for id, filename, path, originalname, mimetype, and size.
