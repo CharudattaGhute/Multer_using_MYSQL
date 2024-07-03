@@ -12,11 +12,11 @@
   
 # Prerequisites
 
-Node.js
-MySQL
-Installation
+- Node.js
+- MySQL
+- Installation
 
-Clone the repository to your local machine.
+# Clone the repository to your local machine.
 
 Install the necessary dependencies using npm install.
 
